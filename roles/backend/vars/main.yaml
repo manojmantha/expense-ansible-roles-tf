@@ -1,5 +1,5 @@
 MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.manojmantha.online"
 MYSQL_USER: root
-MYSQL_PASSWORD: ExpenseApp1
+MYSQL_PASSWORD: >WI3D1INKp7uy|[CK6O.HG2cqCkw
 APP_LOCAION: /app
 COMPONENT: backend
